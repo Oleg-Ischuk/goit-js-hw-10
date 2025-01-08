@@ -68,7 +68,7 @@ input[name="delay"]:focus {
     border-color: #6c8cff; 
 }
 fieldset {
-    width: 360px;
+    width: 100%;
     height: 66px;
     border-radius: 4px;
     stroke-width: 1px;
@@ -88,7 +88,7 @@ button {
     border-radius: 8px;
     border: none;
     padding: 8px 16px;
-    width: 360px;
+    width: 100%;
     height: 40px;
     background: #4e75ff;
     font-weight: 500;
